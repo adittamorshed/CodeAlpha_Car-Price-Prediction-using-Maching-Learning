@@ -1,7 +1,7 @@
 # CodeAlpha Data Science Internship — Car Price Prediction
 
 # 1. Project Overview:
-This project is developed as part of the CodeAlpha Data Science Internship (Task 2).  
+This project is developed as part of the CodeAlpha Data Science Internship .  
 The goal is to predict the selling price of used cars using machine learning techniques based on various features such as brand, year, fuel type, mileage, and transmission.
 
 
@@ -70,4 +70,4 @@ Achieved ~70% accuracy with average prediction error of 1.18 lakh rupees.
 
 # 9. Internship Information:
 Internship: Data Science Internship at CodeAlpha
-Task: Task 2 — Car Price Prediction  
+Task: Car Price Prediction  
